@@ -19,8 +19,5 @@ Biomedical and clinical teams need one place to monitor [patient outcomes / equi
 - [e.g., Hospital performance score]
 - [e.g., Clinical KPI]
 
-## Files
-- `[file name].pbix`: Power BI file
-
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
